@@ -1,0 +1,7 @@
+{
+    "posts": [
+        {"id": 1, "title": "JavaScript Posts", "body": "Text"},
+        {"id": 2, "title": "JavaScript Posts 2", "body": "Text2"},
+        {"id": 3, "title": "JavaScript Posts 3", "body": "Text3"}
+    ]
+}
